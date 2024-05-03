@@ -11,11 +11,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xBernardo&bg_color=000000&color=00a9d4&line=F0FFFF&point=00a9d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xBernardo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xBernardo&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-<a href="https://instagram.com/_bernardosilvaa?igshid=MzMyNGUyNmU2YQ== " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://instagram.com/_bernardosilvaa?igshid=MzMyNGUyNmU2YQ== " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231c3166?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div> 
  
 ### Main skills:
